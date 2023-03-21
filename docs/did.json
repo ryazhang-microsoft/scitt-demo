@@ -1,0 +1,18 @@
+{
+  "id": "did:web:ryazhang-microsoft.github.io:scitt-demo",
+  "assertionMethod": [
+    {
+      "id": "did:web:ryazhang-microsoft.github.io:scitt-demo#ea9d15485e5e9e5c311f7d69c38a36720a120bdffeacf2a896fa206dce19f84c",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:ryazhang-microsoft.github.io:scitt-demo",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-384",
+        "x": "uWZxCQQ0csN2CBTx5xuTEKLmCoYp74MIc5ETbGbiYvqOvZBtzOb03bk8Nh463GUG",
+        "y": "IVKg-elKDfe2h0NsZ3wBmRwq0m2qKuw8SNhhhAO8dw4wloKK7si_Wn2n0WtIKmYs",
+        "kid": "#ea9d15485e5e9e5c311f7d69c38a36720a120bdffeacf2a896fa206dce19f84c",
+        "alg": "ES384"
+      }
+    }
+  ]
+}
